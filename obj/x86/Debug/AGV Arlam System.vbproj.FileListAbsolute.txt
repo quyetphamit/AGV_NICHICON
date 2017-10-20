@@ -1,0 +1,109 @@
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Form1.resources
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+C:\Users\u00450\AppData\Local\Temporary Projects\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+E:\❶　VB2010\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VB 2010\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AGV arlam\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\VB 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\umcvn\Desktop\chuong trinh 13line\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbprojResolveAssemblyReference.cache
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\VIP\vb 2010\AGV arlam PC CANON\AGV arlam system\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\Quyet\AGV\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbprojResolveAssemblyReference.cache
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+F:\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+F:\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+F:\AGV Arlam System\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
+F:\AGV Arlam System\AGV Arlam System\bin\Debug\Interop.WMPLib.dll
+F:\AGV Arlam System\AGV Arlam System\bin\Debug\AxInterop.WMPLib.dll
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\Interop.WMPLib.dll
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\AGV Arlam System\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.ResolveComReference.cache
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\Interop.WMPLib.dll
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.ResolveComReference.cache
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.exe
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.xml
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.pdb
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\bin\Debug\AGV Arlam System.exe
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\bin\Debug\AGV Arlam System.pdb
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\bin\Debug\AGV Arlam System.xml
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\bin\Debug\Interop.WMPLib.dll
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\bin\Debug\AxInterop.WMPLib.dll
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbprojResolveAssemblyReference.cache
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Main.resources
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV_Arlam_System.Resources.resources
+D:\Quyet\AGV\AGV Arlam System 1002\AGV Arlam System\obj\x86\Debug\AGV Arlam System.vbproj.GenerateResource.Cache
